@@ -19,7 +19,7 @@ for{let i=0; i < arrayOfNumbers.length; i++){sum+= arrayOfNumbers[i]
 }
 return sum;
 }
-assignment. sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 }
 
 
@@ -34,7 +34,7 @@ assignment. sumOfNumbers = sumOfNumbers;
  */
 
 
- let number= [ ]   
+ let number= []   
 function countEvenNumbers(arrayOfNumbers) {
 for(let i=0; i < arrayOfNumbers.length; i++){
 if(arrayOfNumbers[i] % 2 == 0) {
